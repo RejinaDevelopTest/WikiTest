@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "A75077EE-6721-4535-B1C4-59BCD0BEE37F"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.ExceptionBreakpoint">
+         <BreakpointContent
+            uuid = "76D5E799-A0C8-43FF-A20A-FE462908AE80"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "Yes"
+            scope = "0"
+            stopOnStyle = "0">
+            <Actions>
+               <BreakpointActionProxy
+                  ActionExtensionID = "Xcode.BreakpointAction.DebuggerCommand">
+                  <ActionContent
+                     consoleCommand = "bt">
+                  </ActionContent>
+               </BreakpointActionProxy>
+            </Actions>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
